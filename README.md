@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/subnFT.svg" alt="nftSub Logo" width="200" />
+  <img src="./images/nftSub.svg" alt="nftSub Logo" width="200" />
   
   # nftSub Smart Contracts
   
