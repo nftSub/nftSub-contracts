@@ -1,0 +1,4 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+reactive-lib/=lib/reactive-lib/
+foundry-devops/=lib/foundry-devops/src/
+forge-std/=lib/forge-std/src/
