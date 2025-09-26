@@ -1,0 +1,58 @@
+{
+  "deployments": {
+    "base": {
+      "chainId": 8453,
+      "chainName": "Base",
+      "subscriptionManager": "0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c",
+      "subscriptionNFT": "0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8",
+      "deploymentTx": "",
+      "deployedAt": "2025-09-26",
+      "deployer": "0xcBe96Ca7899a20d21F78b74A6A93e424bfD54941",
+      "rpcUrl": "https://mainnet.base.org",
+      "explorer": "https://basescan.org"
+    },
+    "bsc": {
+      "chainId": 56,
+      "chainName": "Binance Smart Chain",
+      "subscriptionManager": "0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c",
+      "subscriptionNFT": "0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8",
+      "deploymentTx": "",
+      "deployedAt": "2025-09-26",
+      "deployer": "0xcBe96Ca7899a20d21F78b74A6A93e424bfD54941",
+      "rpcUrl": "https://bsc-dataseed1.binance.org",
+      "explorer": "https://bscscan.com"
+    },
+    "avalanche": {
+      "chainId": 43114,
+      "chainName": "Avalanche C-Chain",
+      "subscriptionManager": "0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c",
+      "subscriptionNFT": "0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8",
+      "deploymentTx": "",
+      "deployedAt": "2025-09-26",
+      "deployer": "0xcBe96Ca7899a20d21F78b74A6A93e424bfD54941",
+      "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+      "explorer": "https://snowtrace.io"
+    },
+    "sonic": {
+      "chainId": 146,
+      "chainName": "Sonic",
+      "subscriptionManager": "0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c",
+      "subscriptionNFT": "0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8",
+      "deploymentTx": "",
+      "deployedAt": "2025-09-26",
+      "deployer": "0xcBe96Ca7899a20d21F78b74A6A93e424bfD54941",
+      "rpcUrl": "https://rpc.soniclabs.com",
+      "explorer": "https://sonicscan.org"
+    },
+    "reactive": {
+      "chainId": 1597,
+      "chainName": "Reactive Network",
+      "subscriptionReactive": "",
+      "deploymentTx": "",
+      "deployedAt": "",
+      "deployer": "0xcBe96Ca7899a20d21F78b74A6A93e424bfD54941",
+      "rpcUrl": "https://mainnet-rpc.rnk.dev/",
+      "explorer": ""
+    }
+  }
+}

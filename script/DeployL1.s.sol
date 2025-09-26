@@ -39,7 +39,7 @@ contract DeployL1 is Script {
         
         // Deploy SubscriptionNFT
         string memory nftUri = string(abi.encodePacked(
-            "https://api.subscription-nft.io/metadata/",
+            "https://nft-sub.vercel.app/api/metadata/",
             vm.toString(block.chainid),
             "/{id}"
         ));
