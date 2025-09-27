@@ -65,7 +65,7 @@ contract DeployToChain is Script {
         if (chainId == 56) return 0xdb81A196A0dF9Ef974C9430495a09B6d535fAc48; // BSC
         if (chainId == 8453) return 0x0D3E76De6bC44309083cAAFdB49A088B8a250947; // Base
         if (chainId == 43114) return 0x934Ea75496562D4e83E80865c33dbA600644fCDa; // Avalanche
-        if (chainId == 146) return 0x9299472a6399fd1027ebf067571eb3e3d7837fc4; // Sonic
+        if (chainId == 146) return 0x9299472A6399Fd1027ebF067571Eb3e3D7837FC4; // Sonic
         if (chainId == 11155111) return 0x33bFb5E7232F14D835E0839c0FD4ce8d44023d8a; // Sepolia (for testing)
         return address(0);
     }

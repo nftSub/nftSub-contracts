@@ -42,7 +42,28 @@ Reactive Network automation contract.
 - Hourly expiry checks via CRON
 - Cross-chain callback execution
 
-## Deployed Contracts (Sepolia)
+## 🚀 Mainnet Deployments
+
+We are **LIVE ON MAINNET** across multiple chains! All contracts use the same addresses thanks to CREATE2 deployment.
+
+### Destination Chains
+
+| Chain | SubscriptionManager | SubscriptionNFT | Explorer |
+|-------|---------------------|-----------------|----------|
+| **Base** | [`0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c`](https://basescan.org/address/0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c) | [`0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8`](https://basescan.org/address/0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8) | [BaseScan](https://basescan.org) |
+| **BSC** | [`0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c`](https://bscscan.com/address/0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c) | [`0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8`](https://bscscan.com/address/0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8) | [BscScan](https://bscscan.com) |
+| **Avalanche** | [`0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c`](https://snowtrace.io/address/0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c) | [`0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8`](https://snowtrace.io/address/0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8) | [SnowTrace](https://snowtrace.io) |
+| **Sonic** | [`0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c`](https://sonicscan.org/address/0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c) | [`0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8`](https://sonicscan.org/address/0x6D4b8BC4613dDCB98450a97b297294BacBd2DDD8) | [SonicScan](https://sonicscan.org) |
+
+### Reactive Network (Mainnet)
+
+| Contract | Address | Explorer |
+|----------|---------|----------|
+| **SubscriptionReactive** | [`0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c`](https://reactscan.net/address/0x99ad42b29a7a99Ee4552cf6dc36dc4d44d8b0A2c) | [ReactScan](https://reactscan.net) |
+
+The Reactive contract monitors all destination chains for payment events and handles automatic renewals.
+
+## Testnet Deployments (Sepolia)
 
 | Contract | Address |
 |----------|---------|

@@ -52,7 +52,7 @@ library MainnetConfig {
             chainId: 146,
             name: "Sonic",
             rpcUrl: "https://rpc.soniclabs.com",
-            callbackProxy: 0x9299472a6399fd1027ebf067571eb3e3d7837fc4,
+            callbackProxy: 0x9299472A6399Fd1027ebF067571Eb3e3D7837FC4,
             gasPrice: 100 // Adjust based on Sonic network
         });
     }
