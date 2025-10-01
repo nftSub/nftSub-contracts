@@ -6,6 +6,9 @@
   ERC-1155 based subscription NFT contracts with Reactive Network automation for Web3 subscription management.
 </div>
 
+
+ <img src ="./images/banner-logo.png" alt="nftSub banner image">
+
 ## Overview
 
 nftSub Smart Contracts provide the foundational layer for decentralized subscription services on EVM. The system consists of three main contracts working in harmony to enable subscription-based access control through NFTs.
