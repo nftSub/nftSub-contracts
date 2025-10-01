@@ -3,4 +3,22 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+# Etherscan API Key
+etherscan_api_key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W"
+
+# Network configurations for verification
+[rpc_endpoints]
+sepolia = "https://sepolia.gateway.tenderly.co"
+base = "https://mainnet.base.org"
+bsc = "https://bsc-dataseed1.binance.org"
+avalanche = "https://api.avax.network/ext/bc/C/rpc"
+sonic = "https://rpc.soniclabs.com"
+
+[etherscan]
+sepolia = { key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W", url = "https://api-sepolia.etherscan.io/api" }
+base = { key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W", url = "https://api.basescan.org/api" }
+bsc = { key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W", url = "https://api.bscscan.com/api" }
+avalanche = { key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W", url = "https://api.snowtrace.io/api" }
+sonic = { key = "BUK9W9T3EUG3QMVVKV8IE5WNWE1S3SNW2W", url = "https://sonicscan.org/api" }
+
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
